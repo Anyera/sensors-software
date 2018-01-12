@@ -57,6 +57,11 @@
 /*      SCL       ->     Pin D4 (GPIO2)                          *
 /*      SDA       ->     Pin D3 (GPIO0)                          *
 /*                                                               *
+/* Wiring Instruction  GSM                                       *
+/* (see labels on display on Sim800L board)                       *
+/*      FONA_RX    -> D5                                         *
+/*      FONA_TX    -> D6                                         *
+/*      FONA_RST   -> D8                                         *
 /*****************************************************************/
 // increment on change
 #define SOFTWARE_VERSION "NRZ-2017-097"
